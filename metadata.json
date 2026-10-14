@@ -1,0 +1,6 @@
+{
+  "name": "Shankar Hardware and Agro Materials",
+  "description": "Hardware, agro hardware, power tools, drip irrigation, PVC plumbing, local bike and vehicle delivery scheduling in Sonwadi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
